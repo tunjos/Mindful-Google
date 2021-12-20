@@ -1,5 +1,5 @@
 
-![Mindful Google](images/mindful48.png "Logo Title Text 1")Mindful Google
+![Mindful Google™](images/mindful48.png "Logo Title Text 1")Mindful Google™
 ==========
 
 Explore Google Mindfully on the web. Available on the Chrome Webstore at [Mindful Google™](https://chrome.google.com/webstore/detail/mindful-google/majeighpkbfmjamjiegocmiemagfanle)
